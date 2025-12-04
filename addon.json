@@ -1,0 +1,10 @@
+{
+	"title"	:	"Sound Muffler",
+	"type"	:	"ServerContent",
+	"tags"	:	["fun", "realism"],
+	"ignore":	
+	[
+		"icon.jpg",
+		"*.gma"
+	]	
+}
