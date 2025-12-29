@@ -9,3 +9,5 @@ Allows you to mute most Sounds or just multiply the Sound Volume (0-2)
 Fully client-side, meaning it should work on all Servers
 Right-Click on a Sound to bring up the option menu, letting you Mute it, adjust the multiplier or play a preview of the Sound
 Switch between List Index or Recently played Sounds at the top
+
+![Picture of how it looks](https://github.com/xaze1/SoundMuffler/blob/main/icon.jpg)
